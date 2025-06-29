@@ -74,11 +74,12 @@ Use Case Diagrams illustrate show how different types of users interact with a s
 
 ### Benefits of Use Case Diagrams
 
-- Visual clarity**: Helps stakeholders quickly grasp the system's scope and functionality.
-- Requirement gathering**: Assists in identifying what the system should do from the user's perspective.
-- Communication**: Bridges the understanding between non-technical stakeholders and developers.
-- System validation**: Ensures every feature aligns with user needs.
+- Visual clarity: Helps stakeholders quickly grasp the system's scope and functionality.
+- Requirement gathering: Assists in identifying what the system should do from the user's perspective.
+- Communication: Bridges the understanding between non-technical stakeholders and developers.
+- System validation: Ensures every feature aligns with user needs.
 
+![alx-booking-uc](https://github.com/user-attachments/assets/6465b3f9-99e3-4593-9fd9-82571294faff)
 
 ### Acceptance Criteria
 
